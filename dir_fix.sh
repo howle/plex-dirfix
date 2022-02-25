@@ -12,7 +12,8 @@
 
 tv_dir='/home/howle/Shows'
 mov_dir='/home/howle/Movies'
-source_content='/home/howle/files'
+
+#source_content='/home/howle/files'
 #frees up read for user input
 exec 3<> /dev/stdin
 
